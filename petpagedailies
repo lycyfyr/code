@@ -1,0 +1,498 @@
+<style>
+a img {
+	border-width: 0px;
+}
+a {
+	color: #666;
+	text-decoration: none;
+}
+a:hover {
+	color: #999;
+}
+body {
+	font: 8pt monospace;
+	line-height: 18px;
+	text-align: center;
+	color: #444;
+}
+td {
+	background: #000;
+}
+#container {
+	width: 99%;
+	margin: 5px auto -40px auto;
+}
+#center {
+	width: 60%;
+	float: left;
+}
+.sidebar {
+	width: 20%;
+	float: left;
+	font: 8pt monospace;
+	line-height: 18px;
+	text-align: left;
+}
+#center p {
+	text-align: left;
+	margin: 0px 0px 10px 0px;
+}
+.sidebar p {
+	margin: 0px 0px 5px 0px;
+	text-align: left;
+}
+.module {
+	margin: 10px 5px 0px 5px;
+	border: 1px #999 solid;
+	padding: 5px;
+	background: #fff;
+}
+h1 {
+	font:  10pt monospace;
+	text-align: center;
+	margin: -5px -5px 5px -5px;
+	color: #fff;
+	padding: 5px;
+	background: #444;
+}
+hr {
+	margin: 2px 0px;
+	border: 1px #ccc solid;
+	border-width: 1px 0px 0px 0px;
+	clear: both;
+}
+#games hr {
+	border: 1px #ccc dotted;
+	border-width: 1px 0px 0px 0px;
+}
+#tkm {
+	visibility: hidden;
+}
+#nf a {
+	display: block;
+	margin: 3px 0px;
+	color: #444;
+}
+#nf img {
+	float: left;
+	clear: left;
+	width: 50px;
+	margin: 5px 5px 5px 0px;
+}
+#nf b {
+	display: block;
+	margin: -1px 0px;
+}
+#nf a:hover {
+	color: #444;
+}
+h3 {
+	margin: 0px 0px 5px 0px;
+	font: small-caps bold 10pt monospace;
+	letter-spacing: 1px;
+
+}
+#blog {
+	height: 200px;
+	overflow: auto;
+	margin: -3px;
+	padding: 5px;
+	line-height: 20px;
+}
+#blog h2 {
+	float: left;
+	width: 38px;
+	background: #ddd;
+	border: 1px #ccc solid;
+	padding: 2px;
+	margin: 5px 8px 0px 0px;
+	font: 7pt monospace;
+	text-transform: uppercase;
+	text-align: center;
+}
+#blog h2 b {
+	display: block;
+	font: 14pt monospace;
+}
+#bookmarks a {
+	display: block;
+	background: url("http://www.websitebullets.com/bullet/810/5.gif") no-repeat 5px 7px;
+	padding: 3px 0px 3px 19px;
+	margin: 2px -5px;
+	border-bottom: 1px #ccc dotted;
+}
+#goal {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#goal li {
+	margin: 8px 0px;
+	background: url("http://www.websitebullets.com/bullet/222/5.gif") no-repeat 0px 6px;
+	padding-left: 10px;
+}
+textarea {
+	background: #e0e0e0;
+	color: #666;
+	border: 0px;
+	width: 100%;
+	height: 300px;
+	overflow: auto;
+	font: 9pt monospace;
+}
+#dailies, #games, #wishlist {
+	width: 100%;
+	overflow: hidden;
+	border: 0px red solid;
+	text-align: center;
+	font: 7pt monospace;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#dailies li, #wishlist li {
+	width: 90px;
+	height: 120px;
+	border: 0px #ccc solid;
+	float: left;
+	margin: 2px;
+}
+#dailies li a, #games li a {
+	display: block;
+}
+#dailies a img, #wishlist img {
+	display: block;
+	margin: 5px auto 3px auto;
+	width: 70px;
+}
+#wishlist li {
+	margin: 10px !important;
+}
+#avatars a {
+	padding: 5px;
+	margin: -1px;
+	float: left;
+}
+#games li {
+	float: left;
+	width: 140px;
+	height: 110px;
+	border: 0px red solid;
+}
+#games a img {
+	display: block;
+	margin: 5px auto -20px auto;
+	width: 130px;
+	border: 0px blue solid;
+}
+#about {
+	text-align: center;
+}
+#about img {
+	float: none;
+	margin: 3px;
+	width: auto;
+}
+</style><div id="container">
+
+ <div class="sidebar">
+  <div class="module" id="about">
+<h1>ℑ 𝔫 𝔱 𝔯 𝔬</h1>
+
+<a href="/userlookup.phtml?user=lucyfyr"><img src="http://images.neopets.com/neoboards/avatars/devilpuss.gif"> <b> lucyfyr</b><br>
+</a>
+<hr><p><center>26F • canada • lurker</center><br>Recently back from a long hiatus. I joined Neopets in 2008 and was active til 2012 but that account was an unfortunate victim of the purge while I was away. This is my personal collection of dailies, links, and favorite things around Neo. I like collecting avatars, playing NeoQuestII, and saving up for my dream customs for my pets.
+</p>
+  </div>
+
+  <div class="module">
+<h1>𝔉 𝔞 𝔳 𝔬 𝔯 𝔦 𝔱 𝔢 𝔰</h1>
+<b>category:</b> Sed tristique lectus eget diam blandit laoreet. Curabitur enim odio, fringilla vel placerat vitae, convallis nec nunc.
+<hr><b>category:</b> In tincidunt pharetra massa, non dapibus augue mattis sit amet. Nulla lobortis pretium pharetra. 
+<hr><b>category:</b> Fusce eleifend nibh in tortor iaculis vitae pretium enim suscipit.
+<hr><b>category:</b> Vivamus dapibus sagittis mauris, faucibus ultrices nunc sodales at. 
+<hr><b>category:</b> Donec quis convallis eros. Ut acsan auctor porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+</div>
+
+  <div class="module" id="nf">
+<h1>ℭ 𝔬 𝔫 𝔱 𝔞 𝔠 𝔱</h1>
+<a href="/neomessages.phtml?type=send&recipient=lucyfyr"> <img src="http://images.neopets.com/neoboards/avatars/default.gif"><b>neomail me</b>
+if you'd like anything added to the page.
+</a>
+<hr><a href="/userlookup.phtml?user=username"> <img src="http://images.neopets.com/neoboards/avatars/default.gif"><b>username</b>
+witty description, reminder, or blurb may go here.
+</a>
+<hr><a href="/userlookup.phtml?user=username"> <img src="http://images.neopets.com/neoboards/avatars/default.gif"><b>username</b>
+witty description, reminder, or blurb may go here.
+</a>
+<hr><a href="/userlookup.phtml?user=username"> <img src="http://images.neopets.com/neoboards/avatars/default.gif"><b>username</b>
+witty description, reminder, or blurb may go here.
+</a>
+
+</div>
+
+
+
+  <div class="module">
+<h1>𝔗 𝔬  𝔇 𝔬</h1>
+<textarea>
+• 4 new daily icons - rearrange
+• wishlist
+• games custom links
+• bookmarks - links to other petpages 
+• neofriends - side accounts or pets?
+• other pets page - lab results log
+</textarea>
+</div>
+
+
+ </div>
+
+ <div id="center">
+
+</ul></div>
+
+<div id="center">
+
+  <div class="module">
+<h1>𝔏 𝔲 𝔠 ყ 𝔣 ყ 𝔯 ' 𝔰  𝔇 𝔞 𝔦 𝔩 𝔦 𝔢 𝔰</h1>
+
+<ul id="dailies"><li><a href="/weather.phtml"><img src="https://i.imgur.com/oQuzJJr.gif"> Weather</a></li> 
+
+<li><a href="/island/haiku/haiku.phtml"><img src="https://i.imgur.com/Slu3eIg.gif"> Haiku</a></li> 
+
+<li><a href="/island/mystichut.phtml"><img src="https://i.imgur.com/Te8L9jG.gif"> Mystic</a></li> 
+
+<li><a href="/ntimes/index.phtml"><img src="https://i.imgur.com/j2fpm7Z.gif"> Neopian Times</a></li>
+
+<li><a href="/stockmarket.phtml?type=portfolio"><img src="https://i.imgur.com/INNm5vm.gif"> Stocks Portfolio</a></li>
+
+<li><a href="/bank.phtml"><img src="https://i.imgur.com/C65oVlb.gif"> Bank Interest</a></li>
+
+<li><a href="/trudys_surprise.phtml"><img src="https://i.imgur.com/Rn5rxTL.gif"> Trudy's Surprise</a></li> 
+
+<li><a href="/faerieland/wheel.phtml"><img src="https://i.imgur.com/vC5REXG.gif"> Wheel of Excitement</a></li>
+
+<li><a href="/medieval/knowledge.phtml"><img src="https://i.imgur.com/KJ9A0Ad.gif"> Wheel of Knowledge</a></li>
+
+<li><a href="/prehistoric/mediocrity.phtml"><img src="https://i.imgur.com/TRSTCdT.gif"> Wheel of Mediocrity</a></li>
+
+<li><a href="/halloween/wheel/index.phtml"><img src="https://i.imgur.com/aiRICn0.gif"> Wheel of Misfortune</a></li>
+
+<li><a href="/prehistoric/monotony/monotony.phtml"><img src="https://i.imgur.com/qn4QbiJ.gif"> Wheel of Monotony</a></li>
+
+<li><a href="/desert/shrine.phtml"><img src="https://i.imgur.com/hIzc9eA.gif"> Coltzan's Shrine</a></li>
+
+<li><a href="/altador/council.phtml"><img src="https://i.imgur.com/Pdzy8NB.gif"> King Altador</a></li> 
+
+<li><a href="/faerieland/darkfaerie.phtml"><img src="https://i.imgur.com/xzbdUdk.gif"> Jhudora's Bluff'</a></li>
+
+<li><a href="/medieval/earthfaerie.phtml"><img src="https://i.imgur.com/yp5ZLzk.gif"> Illusen's Glade</a></li>
+
+<li><a href="/soupkitchen.phtml"><img src="https://i.imgur.com/SfZXsnG.gif"> Soup Faerie</a></li>
+
+<li><a href="/desert/fruitmachine.phtml"><img src="https://i.imgur.com/PWIJpjK.gif"> Fruit Machine</a></li>
+
+<li><a href="/island/tombola.phtml"><img src="https://i.imgur.com/D8dO3R2.gif"> Tombola</a></li>
+
+<li><a href="/jelly/index.phtml"><img src="https://i.imgur.com/zLBRzUm.gif"> Giant Jelly</a></li>
+
+<li><a href="/prehistoric/omelette.phtml"><img src="https://i.imgur.com/bI5e1J1.gif"> Giant Omelette</a></li>
+
+<li><a href="/medieval/grumpyking.phtml"><img src="https://i.imgur.com/KJDTazs.gif"> Grumpy Old King</a></li>
+
+<li><a href="/medieval/wiseking.phtml"><img src="https://i.imgur.com/tD8PzHz.gif"> Wise Old King</a></li>
+
+<li><a href="/faerieland/caverns/index.phtml"><img src="https://i.imgur.com/TD4MUKm.gif"> Faerie Caverns</a></li>
+
+<li><a href="/halloween/applebobbing.phtml"><img src="https://i.imgur.com/mRdGwsO.gif"> Apple Bobbing</a></li>
+
+<li><a href="/worlds/geraptiku/tomb.phtml"><img src="https://i.imgur.com/II6RzpU.gif"> Deserted Tomb</a></li>
+
+<li><a href="/winter/snowager.phtml"><img src="https://i.imgur.com/ekucu95.gif"> Snowager</a></li>
+
+<li><a href="/faerieland/springs.phtml"><img src="https://i.imgur.com/ti1kv9U.gif"> Healing Springs</a></li>
+
+<li><a href="/shenkuu/lunar/"><img src="https://i.imgur.com/vziynpK.gif"> Lunar Temple</a></li>
+
+<li><a href="/moon/meteor.phtml"><img src="https://i.imgur.com/rm6f6gt.gif"> Meteor</a></li>
+
+<li><a href="/games/play.phtml?game_id=905"><img src="https://i.imgur.com/RuvCpYF.gif"> Qasalan Expellibox</a></li>
+
+<li><a href="/shop_of_offers.phtml?slorg_payout=yes"><img src="https://i.imgur.com/ksy5OIu.gif"> Rich Slorg</a></li>
+
+<li><a href="/faerieland/tdmbgpop.phtml"><img src="https://i.imgur.com/6HixKSK.gif"> TDMGPOP</a></li>
+
+<li><a href="/worlds/kiko/kpop/"><img src="https://i.imgur.com/ISjePUk.gif"> Kiko Pop</a></li>
+
+<li><a href="/community/index.phtml"><img src="https://i.imgur.com/M0EkXru.gif"> Daily Puzzle</a></li>
+
+<li><a href="/lab2.phtml"><img src="https://i.imgur.com/mikyvpp.gif"> Lab Ray</a></li>
+
+<li><a href="/petpetlab.phtml"><img src="https://i.imgur.com/tMCY7Ne.gif"> Petpet Lab Ray</a></li>
+
+<li><a href="/medieval/symolhole.phtml"><img src="https://i.imgur.com/vimyWHE.gif"> Symol Hole</a></li>
+
+<li><a href="/medieval/turmaculus.phtml"><img src="https://i.imgur.com/ZHbrlua.gif"> Turmaculus</a></li>
+
+<li><a href="/dome/index.phtml"><img src="https://i.imgur.com/a9bbSyh.gif"> Battledome</a></li> 
+
+<li><a href="/altador/colosseum/"><img src="https://i.imgur.com/A17R0m8.gif"> Altador Cup</a></li> 
+
+</ul></div>
+
+
+
+<div class="module">
+<h1>𝔊 𝔞 𝔪 𝔢 𝔰  𝔏 𝔦 𝔰 𝔱</h1>
+
+<ul id="games"><li><a href="/games/play.phtml?game_id=381"><img src="http://images.neopets.com/games/pages/icons/med/m-381.png">Kass Basher</a></li>
+
+ <li><a href="/games/play.phtml?game_id=81"><img src="http://images.neopets.com/games/pages/icons/med/m-81.png">Splat-A-Sloth</a></li>
+
+ <li><a href="/games/play.phtml?game_id=1139"><img src="http://images.neopets.com/games/pages/icons/med/m-1139.png">Darigan Dodgeball</a></li>
+
+ <li><a href="/games/play.phtml?game_id=396"><img src="http://images.neopets.com/games/pages/icons/med/m-396.png">Mootix Drop</a></li>
+
+ <li><a href="/games/play.phtml?game_id=539"><img src="http://images.neopets.com/games/pages/icons/med/m-539.png"> Chia Bomber</a></li> 
+
+ <li><a href="/games/play.phtml?game_id=500"><img src="http://images.neopets.com/games/pages/icons/med/m-500.png"> Meerca Chase</a></li>
+
+ <li><a href="/games/play.phtml?game_id=207"><img src="http://images.neopets.com/games/pages/icons/med/m-207.png"> Zurroball</a></li>
+
+ <li><a href="/games/play.phtml?game_id=903"><img src="http://images.neopets.com/games/pages/icons/med/m-903.png"> Ultimate Bullseye</a></li>
+
+ <li><a href="/games/play.phtml?game_id=197"><img src="http://images.neopets.com/games/pages/icons/med/m-197.png">Escape From Meridell Castle</a></li>
+
+ <li><a href="/games/play.phtml?game_id=789"><img src="http://images.neopets.com/games/pages/icons/med/m-789.png">The Usul Suspects</a></li>
+
+ <li><a href="/games/play.phtml?game_id=228"><img src="http://images.neopets.com/games/pages/icons/med/m-228.png">Petpet Rescue</a></li>
+
+ <li><a href="/games/play.phtml?game_id=379"><img src="http://images.neopets.com/games/pages/icons/med/m-379.png"> Meepit Juice Break</a></li>
+
+ <li><a href="/games/play.phtml?game_id=544"><img src="http://images.neopets.com/games/pages/icons/med/m-544.png">Snow Wars</a></li>
+
+ <li><a href="/games/play.phtml?game_id=248"><img src="http://images.neopets.com/games/pages/icons/med/m-248.png"> Raiders of Maraqua</a></li> 
+</ul></div>
+
+<div class="module">
+
+<h1>𝔚 𝔦 𝔰 𝔥 𝔩 𝔦 𝔰 𝔱</h1>
+
+<ul id="wishlist"><li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+
+<li>
+<img src="http://images.neopets.com/items/gif_present_xmas.gif">Item Name Here
+</li>
+</ul></div>
+
+ </div>
+ <div class="sidebar">
+
+<div class="module">
+<h1>𝔏 𝔦 𝔫 ƙ 𝔰</h1>
+<ul id="goal">
+
+<table>
+
+  <tr>
+    <td><a href="/~thatk.illsme"><img src="https://i.imgur.com/iGgfvwf.png"></td>
+	<td><a href="/guilds/guild.phtml?id=4179282"><img src="http://i1025.photobucket.com/albums/y314/jillmao/petuniaswrekt_zpskbcv2qx5.gif"></a></td>
+    <td><a href="/~OldWays"><img src="http://lost.quiggle.org/button_ixi.gif" width="88" height="31" border="0"></a></td>
+ 	</tr>
+ 	<tr>
+    <td><a href="/~Kylinth"><img src="http://i.imgur.com/OBRG3l0.gif"></a></td>
+    <td><a href="/~Poundal"><img src="http://i.imgur.com/6hPn9vt.gif"></a></td>
+    <td><a href="/~Kalux"><img src="http://i.imgur.com/ayXdJgw.gif"></a></td>
+ 	</tr>
+  	<tr>
+  	<td><a href="/~Lexal"><img src="http://i.imgur.com/fbNYUR3.gif"></a></td>
+  	<td><a href="/~Sersae"><img src="http://imgur.com/Eb6jBqa.gif"></a></td>
+  	<td><a href="/~Kyynator"><img src="http://i.imgur.com/jCph4uI.png"></a></td>
+  	</tr>
+
+</table>
+
+</ul></div>
+
+
+  <div class="module" id="bookmarks">
+<h1>𝔅 𝔬 𝔬 ƙ 𝔪 𝔞 𝔯 ƙ 𝔰</h1>
+<a href="/">Link Here</a>
+<a href="/">Link Here</a>
+<a href="/">Link Here</a>
+<a href="/">Link Here</a>
+<a href="/">Link Here</a>
+<a href="/">Link Here</a>
+<a href="/">Link Here</a>
+<a href="/">Link Here</a>
+<a href="/">Link Here</a>
+</div>
+
+<div class="module" id="avatars">
+<h1>𝔄 𝔳 𝔞 𝔱 𝔞 𝔯 𝔰  ℑ 𝔫  𝔓 𝔯 𝔬 𝔤 𝔯 𝔢 𝔰 𝔰</h1>
+<a href="/games/tyranuevavu.phtml"><img src="http://images.neopets.com/neoboards/avatars/jarbjarb.gif"></a>
+<a href="/pirates/buriedtreasure/index.phtml"><img src="http://images.neopets.com/neoboards/avatars/aishascalawag.gif"></a>
+<a href="/games/meepits.phtml"><img src="http://images.neopets.com/neoboards/avatars/ahhhhmeepit.gif"></a>
+<a href="/medieval/cheeseroller.phtml"><img src="http://images.neopets.com/neoboards/avatars/cheeseroller.gif"></a>
+<a href="/halloween/coconutshy.phtml"><img src="http://images.neopets.com/neoboards/avatars/evilcoconut.gif"></a>
+<a href="/battledome/battledome.phtml"><img src="http://images.neopets.com/neoboards/avatars/valiant.gif"></a>
+<a href="/games/icecream2.phtml"><img src="http://images.neopets.com/neoboards/avatars/icecreammachine.gif"></a>
+<a href="/space/strangelever.phtml"><img src="http://images.neopets.com/neoboards/avatars/leverofdoom.gif"></a>
+
+<a href="/medieval/kissthemortog.phtml"><img src="http://images.neopets.com/neoboards/avatars/mortogkiss.gif"></a>
+<a href="/winter/kiosk.phtml"><img src="http://images.neopets.com/neoboards/avatars/kioskwocky.gif"></a>
+<a href="/halloween/scratch.phtml"><img src="http://images.neopets.com/neoboards/avatars/sssidney.gif"></a>
+<a href="/games/cellblock/cellblock.phtml"><img src="http://images.neopets.com/neoboards/avatars/mastervex.gif"></a>
+<a href="/pirates/bilge.phtml"><img src="http://images.neopets.com/neoboards/avatars/bilgedice.gif"></a>
+<a href="/games/betterthanyou.phtml"><img src="http://images.neopets.com/neoboards/avatars/betterthanyou.gif"></a>
+<a href="/faerieland/darkfaerie.phtml"><img src="http://images.neopets.com/neoboards/avatars/jhudorascloud.gif"></a>
+<a href="/medieval/earthfaerie.phtml"><img src="http://images.neopets.com/neoboards/avatars/illusensglade.gif"></a>
+<a href="/water/restaurant.phtml"><img src="http://images.neopets.com/neoboards/avatars/kelpwaitress.gif"></a>
+<a href="/games/neoquest/neoquest.phtml"><img src="http://images.neopets.com/neoboards/avatars/nq1erick.gif"></a>
+<div style="clear: both;"></div>
+ </div>
+
+
+
+
+ </div>
+<hr id="tkm"></div>
